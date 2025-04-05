@@ -79,7 +79,7 @@ const Resume: React.FC = () => {
               <span className="w-8 h-8 flex items-center justify-center bg-portfolio-navy text-white rounded-full mr-3 text-sm">
                 2
               </span>
-              Experience
+              Certification
             </h3>
             
             <div className="space-y-8">
